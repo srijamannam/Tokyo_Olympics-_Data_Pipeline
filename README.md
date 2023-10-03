@@ -13,6 +13,9 @@ It contaions the following files:
 
 **Tools & Services:**
 Azure Data Factory: Data pipeline tool
+
 Azure Databricks: Data transformation using Spark
+
 Azure Data Lake Storage: Storage solution for raw and transformed data
+
 Azure Synapse Analytics: SQL-based analytics and insights
