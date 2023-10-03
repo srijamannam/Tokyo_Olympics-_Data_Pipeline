@@ -1,9 +1,7 @@
 # Tokyo_Olympics-_Data_Pipeline
 
 **Data Source:**
-Kaggle - 2021 Olympics in Tokyo
-
-It contaions the following files:
+Kaggle - 2021 Olympics in Tokyo. It contains the following files:
 1) Athletes
 2) Coaches
 3) EntriesGender
@@ -12,6 +10,7 @@ It contaions the following files:
 
 
 **Tools & Services:**
+
 Azure Data Factory: Data pipeline tool
 
 Azure Databricks: Data transformation using Spark
